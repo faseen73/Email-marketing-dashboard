@@ -67,7 +67,7 @@ How different device types impact the performance of the campaign. This helps us
 •	Enabled targeted re-engagement strategies for inactive subscribers, increasing ROI.
 
 (https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/faseen73/Email-marketing-dashboard/blob/main/email%20ss.png)
+![Dashboard Preview](https://github.com/faseen73/Email-marketing-dashboard/blob/main/email%20ss.png)
 
 
 
