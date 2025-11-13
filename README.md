@@ -70,7 +70,7 @@ How different device types impact the performance of the campaign. This helps us
 ![Dashboard Preview](https://github.com/faseen73/Email-marketing-dashboard/blob/main/email%20ss.png)
 
 (https://github.com/username/repo/assets/image.png)
-![Dashboard Preview](https://github.com/faseen73/Email-marketing-dashboard/blob/main/email%20ss.png)
+![Dashboard Preview](https://github.com/faseen73/Email-marketing-dashboard/blob/main/email%20ss%202.png)
 
 
 
