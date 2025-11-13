@@ -66,7 +66,7 @@ How different device types impact the performance of the campaign. This helps us
 •	Flagged underperforming campaigns with high bounce rates, leading to improved list hygiene.
 •	Enabled targeted re-engagement strategies for inactive subscribers, increasing ROI.
 
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+(https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/faseen73/Email-marketing-dashboard/blob/main/email%20ss.png)
 
 
